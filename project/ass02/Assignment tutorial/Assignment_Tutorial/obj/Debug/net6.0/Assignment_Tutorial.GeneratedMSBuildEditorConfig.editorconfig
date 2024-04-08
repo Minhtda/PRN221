@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment_Tutorial
+build_property.RootNamespace = Assignment_Tutorial
+build_property.ProjectDir = D:\Fall2023\PRN221\project\ass02\Assignment tutorial\Assignment_Tutorial\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Fall2023\PRN221\project\ass02\Assignment tutorial\Assignment_Tutorial
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/DoctorInformations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ySW5mb3JtYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/DoctorInformations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ySW5mb3JtYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/DoctorInformations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ySW5mb3JtYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/DoctorInformations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ySW5mb3JtYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/DoctorInformations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ySW5mb3JtYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/login/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/ass02/Assignment tutorial/Assignment_Tutorial/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iys1idn7no

@@ -1,0 +1,14 @@
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

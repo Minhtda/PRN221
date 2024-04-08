@@ -1,0 +1,14 @@
+D:\Fall2023\PRN221\project\connectDB\DBconnect\bin\Debug\net6.0\DBconnect.deps.json
+D:\Fall2023\PRN221\project\connectDB\DBconnect\bin\Debug\net6.0\DBconnect.runtimeconfig.json
+D:\Fall2023\PRN221\project\connectDB\DBconnect\bin\Debug\net6.0\DBconnect.dll
+D:\Fall2023\PRN221\project\connectDB\DBconnect\bin\Debug\net6.0\DBconnect.pdb
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.csproj.AssemblyReference.cache
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.AssemblyInfoInputs.cache
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.AssemblyInfo.cs
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.csproj.CoreCompileInputs.cache
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.dll
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\refint\DBconnect.dll
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.pdb
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\DBconnect.genruntimeconfig.cache
+D:\Fall2023\PRN221\project\connectDB\DBconnect\obj\Debug\net6.0\ref\DBconnect.dll

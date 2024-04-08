@@ -1,0 +1,103 @@
+﻿@page
+@model Assignment_Tutorial.Pages.DoctorInformations.IndexModel
+
+@{
+    ViewData["Title"] = "Doctor List";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by doctor name:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-page="./Index">Back to full list</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <div asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.DoctorInformation[0].DoctorName)
+                </div>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].Birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].DoctorAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].GraduationYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].DoctorLicenseNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorInformation[0].Department)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.DoctorInformation) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GraduationYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorLicenseNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.DepartmentName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.DoctorId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.DoctorId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.DoctorId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.DoctorInformation.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.DoctorInformation.HasNextPage ? "disabled" : "";
+}
+
+<a asp-page="./Index"
+   asp-route-pageIndex="@(Model.DoctorInformation.PageIndex - 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-page="./Index"
+   asp-route-pageIndex="@(Model.DoctorInformation.PageIndex + 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>
+<p><a href="../Departments/Index">Move to department list</a></p>

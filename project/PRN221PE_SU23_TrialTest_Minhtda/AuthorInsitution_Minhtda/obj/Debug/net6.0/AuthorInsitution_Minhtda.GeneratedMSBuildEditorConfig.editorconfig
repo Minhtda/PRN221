@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AuthorInsitution_Minhtda
+build_property.RootNamespace = AuthorInsitution_Minhtda
+build_property.ProjectDir = D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\AuthorInsitution_Minhtda\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Fall2023\PRN221\project\PRN221PE_SU23_TrialTest_Minhtda\AuthorInsitution_Minhtda
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/CorrespondingAuthors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycmVzcG9uZGluZ0F1dGhvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/CorrespondingAuthors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycmVzcG9uZGluZ0F1dGhvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/CorrespondingAuthors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycmVzcG9uZGluZ0F1dGhvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/CorrespondingAuthors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycmVzcG9uZGluZ0F1dGhvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/CorrespondingAuthors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycmVzcG9uZGluZ0F1dGhvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PRN221PE_SU23_TrialTest_Minhtda/AuthorInsitution_Minhtda/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p0yv1ralmv

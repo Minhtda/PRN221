@@ -1,0 +1,17 @@
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\bin\Debug\net6.0-windows\RealTimeClock.exe
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\bin\Debug\net6.0-windows\RealTimeClock.deps.json
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\bin\Debug\net6.0-windows\RealTimeClock.runtimeconfig.json
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\bin\Debug\net6.0-windows\RealTimeClock.dll
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\bin\Debug\net6.0-windows\RealTimeClock.pdb
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.csproj.AssemblyReference.cache
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.Form1.resources
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.csproj.GenerateResource.cache
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.AssemblyInfoInputs.cache
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.AssemblyInfo.cs
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.csproj.CoreCompileInputs.cache
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.dll
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\refint\RealTimeClock.dll
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.pdb
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\RealTimeClock.genruntimeconfig.cache
+D:\Fall2023\PRN221\project\RealTimeClock\RealTimeClock\obj\Debug\net6.0-windows\ref\RealTimeClock.dll

@@ -1,0 +1,12 @@
+D:\Fall2023\PRN221\project\Task\TEST_STASK\bin\Debug\net6.0\TEST_STASK.deps.json
+D:\Fall2023\PRN221\project\Task\TEST_STASK\bin\Debug\net6.0\TEST_STASK.dll
+D:\Fall2023\PRN221\project\Task\TEST_STASK\bin\Debug\net6.0\TEST_STASK.pdb
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.csproj.AssemblyReference.cache
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.AssemblyInfoInputs.cache
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.AssemblyInfo.cs
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.csproj.CoreCompileInputs.cache
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.dll
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\refint\TEST_STASK.dll
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\TEST_STASK.pdb
+D:\Fall2023\PRN221\project\Task\TEST_STASK\obj\Debug\net6.0\ref\TEST_STASK.dll

@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PE_PRN221
+build_property.RootNamespace = PE_PRN221
+build_property.ProjectDir = D:\Fall2023\PRN221\project\PE_PRN221\PE_PRN221\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Fall2023\PRN221\project\PE_PRN221\PE_PRN221
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fall2023/PRN221/project/PE_PRN221/PE_PRN221/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-faemi80hq6
